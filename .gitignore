@@ -1,6 +1,8 @@
 mobility_data/
 sigplaces_and_home
+pretrained_ace/
 
+baselines/lda_tba/london_20250210_20250223_sigplaces_topic_dist.csv.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
